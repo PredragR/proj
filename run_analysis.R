@@ -58,5 +58,6 @@ run_analysis <- function(){
   
   # output tidy data 
   write.table(data_tidied, file = "./tidy_data.txt",row.name=FALSE)
+  "adf"
   
 }
